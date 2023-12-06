@@ -1,2 +1,1 @@
-# .github
-Repository For Our ReadMe File
+The Repostitory contains all files used for branding
