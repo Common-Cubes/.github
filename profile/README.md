@@ -14,3 +14,7 @@ These are some of the people currently working as our developing team!
 <img src="https://avatars.githubusercontent.com/u/117950417?v=4" alt="" width="18" height="18"> [Cyo](https://github.com/CyoNearYou) - Team Leader | Primary All-Rounder
 
 <img src="https://avatars.githubusercontent.com/u/52893269?v=4" alt="" width="18" height="18"> [Frost](https://github.com/kne6907) - Head of Coding | Artist in-Training
+
+GB - Pixel Art Designer
+
+GW - Learning Coder
