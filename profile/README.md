@@ -9,7 +9,7 @@ You can reach us at contacting.cubes@gmail.com.
 ...With More To Come!
 
 # About Us - Our Team
-These are some of the people currently working with our developing team!
+These are some of the people currently working as our developing team!
 
 <img src="https://avatars.githubusercontent.com/u/117950417?v=4" alt="" width="18" height="18"> [Cyo](https://github.com/CyoNearYou)
 
