@@ -17,5 +17,5 @@ These are some of the people currently working as our developing team!
 
 <img src="https://avatars.githubusercontent.com/u/153113206?v=4" alt="" width="18" height="18"> [Person Who Exists](https://github.com/ThePersonWhoEx1sts) - Pixel Art Designer
 
-GW - Learning Coder
+<img src="https://avatars.githubusercontent.com/u/153114375?v=4" alt="" width="18" height="18"> [EnderHamster](https://github.com/EnderHamster) - Learning Coder
 
