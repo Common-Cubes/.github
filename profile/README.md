@@ -4,7 +4,6 @@ We are Common Cubes, a team of modders who specialize in minecraft modding. We a
 You can reach us at contacting.cubes@gmail.com. 
 
 # Our Projects
-<img src="https://github.com/Common-Cubes/BiomeBonanza/blob/main/src/main/resources/assets/biomebonanza/icon.png?raw=true" alt="" width="18" height="18"> [Biome Bonanza](https://github.com/Common-Cubes/BiomeBonanza/tree/main)
 
 ...With More To Come!
 
